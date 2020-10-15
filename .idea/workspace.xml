@@ -25,10 +25,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e99c3b14-ccdc-4312-b9c4-11da3604b967" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cac-thanh-vien.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gio-thieu-ve-toi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Personalinformation.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cac-thanh-vien.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gio-thieu-ve-toi.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +79,8 @@
       <workItem from="1602643462770" duration="1917000" />
       <workItem from="1602651661571" duration="138000" />
       <workItem from="1602685363126" duration="2623000" />
-      <workItem from="1602732061573" duration="3689000" />
+      <workItem from="1602732061573" duration="8669000" />
+      <workItem from="1602754931401" duration="14167000" />
     </task>
     <servers />
   </component>
@@ -92,5 +97,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602737000595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602737000595" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1602741678451">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602741678451" />
   </component>
 </project>
